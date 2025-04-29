@@ -6,7 +6,7 @@ A passionate data professional with expertise in Machine Learning, Data Analysis
 ### 🔍 About Me  
 - 📊 **Data Science & AI Intern** at Home789  
 - 🎓 **Master of Data Science & Innovation** (UTS)  
-- 🏆 **People's Choice Award Winner** for Nutrion - A Food Recommendation App  
+- 🏆 **Merit Award for Outstanding Academic Achievement(2024)** and **People's Choice Award Winner** for Nutrion - A Food Recommendation App  
 - 📌 **Key Skills**: Python, SQL, Machine Learning, NLP, Deep Learning, Data Visualization, Cloud Computing (Azure, GCP), Big Data (Hadoop, Spark), Tableau, Power BI  
 - 📫 How to reach me: **savanthnair611@gmail.com**  
 
